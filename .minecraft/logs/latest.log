@@ -4242,3 +4242,253 @@ java.lang.NullPointerException: null
 [14Sep2021 20:30:05.207] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] <pablo93_47> -7 -245
 [14Sep2021 20:31:54.002] [SoundControl Sound Processor/WARN] [SoundControl/SoundFXProcessor]: SoundControl Sound Processor is lagging; behind 79 msecs
 [14Sep2021 20:31:54.055] [SoundControl Sound Processor/WARN] [SoundControl/SoundFXProcessor]: SoundControl Sound Processor is lagging; behind 2 msecs
+[14Sep2021 20:32:45.868] [SoundControl Sound Processor/WARN] [SoundControl/SoundFXProcessor]: SoundControl Sound Processor is lagging; behind 42 msecs
+[14Sep2021 20:36:39.487] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pablo93_47 lost connection: Disconnected
+[14Sep2021 20:36:39.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo93_47 left the game
+[14Sep2021 20:36:39.490] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] pablo93_47 left the game
+[14Sep2021 20:37:06.347] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pablo93_47 is be74bcc5-46fe-4f19-aa12-0c1880047ebf
+[14Sep2021 20:37:11.237] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@552992d1
+[14Sep2021 20:37:11.248] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pablo93_47[/25.69.250.107:57695] logged in with entity id 57980 at (13.699999988079071, 39.728515877948176, -247.49512518978986)
+[14Sep2021 20:37:11.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo93_47 joined the game
+[14Sep2021 20:37:11.258] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] pablo93_47 joined the game
+[14Sep2021 20:37:11.294] [Server thread/INFO] [Waila/]: Syncing config to pablo93_47 (be74bcc5-46fe-4f19-aa12-0c1880047ebf)
+[14Sep2021 20:37:11.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Toucan_XXIX: Teleported pablo93_47 to Toucan_XXIX]
+[14Sep2021 20:37:11.630] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Teleported pablo93_47 to Toucan_XXIX
+[14Sep2021 20:37:52.618] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Toucan_XXIX moved wrongly!
+[14Sep2021 20:38:40.366] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player moment_bratanka is a08d4518-8e32-43b5-8da4-18f022d4994d
+[14Sep2021 20:38:46.430] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6524f519
+[14Sep2021 20:38:46.440] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: moment_bratanka[/25.22.8.130:63918] logged in with entity id 59412 at (-218.7905793354617, 64.0, -169.13349650016167)
+[14Sep2021 20:38:46.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moment_bratanka joined the game
+[14Sep2021 20:38:46.445] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] moment_bratanka joined the game
+[14Sep2021 20:38:46.485] [Server thread/INFO] [Waila/]: Syncing config to moment_bratanka (a08d4518-8e32-43b5-8da4-18f022d4994d)
+[14Sep2021 20:39:02.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <moment_bratanka> mumble
+[14Sep2021 20:39:02.478] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] <moment_bratanka> mumble
+[14Sep2021 20:39:07.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Toucan_XXIX> pulpet
+[14Sep2021 20:39:07.589] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] <Toucan_XXIX> pulpet
+[14Sep2021 20:39:13.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <moment_bratanka> jaki kurna pulpet
+[14Sep2021 20:39:13.044] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] <moment_bratanka> jaki kurna pulpet
+[14Sep2021 20:39:20.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Toucan_XXIX> sie dlawi
+[14Sep2021 20:39:20.139] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] <Toucan_XXIX> sie dlawi
+[14Sep2021 20:40:51.485] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 975 advancements
+[14Sep2021 20:41:13.354] [Render thread/ERROR] [Chisel/]: java.lang.NullPointerException: Cannot invoke "mezz.jei.api.recipe.IRecipeManager.getRecipes(mezz.jei.api.recipe.category.IRecipeCategory, mezz.jei.api.recipe.IFocus)" because "this.registry" is null
+[14Sep2021 20:45:16.027] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Fullfill your bounty by right clicking on a bounty board.
+[14Sep2021 20:45:33.831] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 980 advancements
+[14Sep2021 20:46:44.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo93_47 has reached the goal [Time To Even The Scales]
+[14Sep2021 20:46:44.807] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] pablo93_47 has reached the goal [Time To Even The Scales]
+[14Sep2021 20:47:42.880] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 980 advancements
+[14Sep2021 20:48:09.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moment_bratanka has made the advancement [The Silence of the Forest]
+[14Sep2021 20:48:09.423] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] moment_bratanka has made the advancement [The Silence of the Forest]
+[14Sep2021 20:48:19.080] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3af78617
+[14Sep2021 20:50:26.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moment_bratanka has reached the goal [Time To Even The Scales]
+[14Sep2021 20:50:26.493] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] moment_bratanka has reached the goal [Time To Even The Scales]
+[14Sep2021 20:52:13.832] [Render thread/ERROR] [Chisel/]: java.lang.NullPointerException: Cannot invoke "mezz.jei.api.recipe.IRecipeManager.getRecipes(mezz.jei.api.recipe.category.IRecipeCategory, mezz.jei.api.recipe.IFocus)" because "this.registry" is null
+[14Sep2021 20:53:12.575] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 980 advancements
+[14Sep2021 20:54:31.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Lich and Skeleton had better aim than pablo93_47
+[14Sep2021 20:54:31.642] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The Lich and Skeleton had better aim than pablo93_47
+[14Sep2021 20:54:34.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moment_bratanka succumbed to the Lich's explosive magic
+[14Sep2021 20:54:34.005] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] moment_bratanka succumbed to the Lich's explosive magic
+[14Sep2021 20:55:16.146] [Server thread/INFO] [DynamicSurroundings/ModuleServiceManager]: EntityJoinWorldEvent fired (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[14Sep2021 20:55:16.237] [Render thread/INFO] [com.jozufozu.flywheel.backend.Backend/]: No shader config found.
+[14Sep2021 20:55:16.286] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: EntityJoinWorldEvent fired (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[14Sep2021 20:55:17.005] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 983 advancements
+[14Sep2021 20:55:34.989] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 984 advancements
+[14Sep2021 20:55:47.949] [SoundControl Sound Processor/WARN] [SoundControl/SoundFXProcessor]: SoundControl Sound Processor is lagging; behind 97 msecs
+[14Sep2021 20:56:22.427] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 985 advancements
+[14Sep2021 20:56:50.978] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 986 advancements
+[14Sep2021 20:57:58.387] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 987 advancements
+[14Sep2021 20:59:01.438] [Render thread/INFO] [com.jozufozu.flywheel.backend.Backend/]: No shader config found.
+[14Sep2021 20:59:01.442] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: EntityJoinWorldEvent fired (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[14Sep2021 20:59:01.837] [Server thread/INFO] [DynamicSurroundings/ModuleServiceManager]: EntityJoinWorldEvent fired (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[14Sep2021 21:00:51.346] [Render thread/ERROR] [Chisel/]: java.lang.NullPointerException: Cannot invoke "mezz.jei.api.recipe.IRecipeManager.getRecipes(mezz.jei.api.recipe.category.IRecipeCategory, mezz.jei.api.recipe.IFocus)" because "this.registry" is null
+[14Sep2021 21:01:11.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <moment_bratanka> -277 -367
+[14Sep2021 21:01:11.854] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] <moment_bratanka> -277 -367
+[14Sep2021 21:03:29.702] [Server thread/ERROR] [chiselsandbits/]: Unable to find TileEntity while interacting with block.
+java.lang.Exception: null
+	at mod.chiselsandbits.core.Log.noTileError(Log.java:39) ~[chiselsandbits:?]
+	at mod.chiselsandbits.chiseledblock.BlockChiseled.func_196253_a(BlockChiseled.java:118) ~[chiselsandbits:?]
+	at net.minecraft.block.AbstractBlock$AbstractBlockState.func_196953_a(AbstractBlock.java:665) ~[?:?]
+	at twilightforest.block.TrophyWallBlock.func_196258_a(TrophyWallBlock.java:63) ~[twilightforest:?]
+	at net.minecraft.item.WallOrFloorItem.func_195945_b(WallOrFloorItem.java:22) ~[?:?]
+	at net.minecraft.item.BlockItem.redirect$zhl000$alterPlacementState(BlockItem.java:524) ~[?:?]
+	at net.minecraft.item.BlockItem.func_195942_a(BlockItem.java:51) ~[?:?]
+	at net.minecraft.item.BlockItem.func_195939_a(BlockItem.java:39) ~[?:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:644) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:187) ~[?:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:353) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:36) ~[?:?]
+	at net.optifine.util.PacketRunnable.run(PacketRunnable.java:28) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(ThreadTaskExecutor.java:189) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(ThreadTaskExecutor.java:151) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(ThreadTaskExecutor.java:167) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[14Sep2021 21:03:59.057] [Server thread/ERROR] [chiselsandbits/]: Unable to find TileEntity while interacting with block.
+java.lang.Exception: null
+	at mod.chiselsandbits.core.Log.noTileError(Log.java:39) ~[chiselsandbits:?]
+	at mod.chiselsandbits.chiseledblock.BlockChiseled.func_196253_a(BlockChiseled.java:118) ~[chiselsandbits:?]
+	at net.minecraft.block.AbstractBlock$AbstractBlockState.func_196953_a(AbstractBlock.java:665) ~[?:?]
+	at twilightforest.block.TrophyWallBlock.func_196258_a(TrophyWallBlock.java:63) ~[twilightforest:?]
+	at net.minecraft.item.WallOrFloorItem.func_195945_b(WallOrFloorItem.java:22) ~[?:?]
+	at net.minecraft.item.BlockItem.redirect$zhl000$alterPlacementState(BlockItem.java:524) ~[?:?]
+	at net.minecraft.item.BlockItem.func_195942_a(BlockItem.java:51) ~[?:?]
+	at net.minecraft.item.BlockItem.func_195939_a(BlockItem.java:39) ~[?:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:644) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:187) ~[?:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:353) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:36) ~[?:?]
+	at net.optifine.util.PacketRunnable.run(PacketRunnable.java:28) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(ThreadTaskExecutor.java:189) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(ThreadTaskExecutor.java:151) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(ThreadTaskExecutor.java:167) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[14Sep2021 21:04:06.903] [Server thread/ERROR] [chiselsandbits/]: Unable to find TileEntity while interacting with block.
+java.lang.Exception: null
+	at mod.chiselsandbits.core.Log.noTileError(Log.java:39) ~[chiselsandbits:?]
+	at mod.chiselsandbits.chiseledblock.BlockChiseled.func_196253_a(BlockChiseled.java:118) ~[chiselsandbits:?]
+	at net.minecraft.block.AbstractBlock$AbstractBlockState.func_196953_a(AbstractBlock.java:665) ~[?:?]
+	at twilightforest.block.TrophyWallBlock.func_196258_a(TrophyWallBlock.java:63) ~[twilightforest:?]
+	at net.minecraft.item.WallOrFloorItem.func_195945_b(WallOrFloorItem.java:22) ~[?:?]
+	at net.minecraft.item.BlockItem.redirect$zhl000$alterPlacementState(BlockItem.java:524) ~[?:?]
+	at net.minecraft.item.BlockItem.func_195942_a(BlockItem.java:51) ~[?:?]
+	at net.minecraft.item.BlockItem.func_195939_a(BlockItem.java:39) ~[?:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:644) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:187) ~[?:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:353) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:36) ~[?:?]
+	at net.optifine.util.PacketRunnable.run(PacketRunnable.java:28) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(ThreadTaskExecutor.java:189) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(ThreadTaskExecutor.java:151) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(ThreadTaskExecutor.java:167) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[14Sep2021 21:07:52.470] [SoundControl Sound Processor/WARN] [SoundControl/SoundFXProcessor]: SoundControl Sound Processor is lagging; behind 42 msecs
+[14Sep2021 21:09:35.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moment_bratanka has made the advancement [A Seedy Place]
+[14Sep2021 21:09:35.557] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] moment_bratanka has made the advancement [A Seedy Place]
+[14Sep2021 21:09:58.387] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pablo93_47 lost connection: Disconnected
+[14Sep2021 21:09:58.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablo93_47 left the game
+[14Sep2021 21:09:58.389] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] pablo93_47 left the game
+[14Sep2021 21:11:14.247] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Saved screenshot as 2021-09-14_21.11.14.png
+[14Sep2021 21:11:38.007] [Render thread/WARN] [net.minecraft.client.network.play.ClientPlayNetHandler/]: Unknown custom packet identifier: carryon:carryonpackets
+[14Sep2021 21:12:02.516] [Worker-Main-9/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[14Sep2021 21:12:02.516] [Worker-Main-9/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[14Sep2021 21:12:02.518] [Worker-Main-9/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[14Sep2021 21:12:02.518] [Worker-Main-9/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[14Sep2021 21:12:51.509] [Server thread/ERROR] [chiselsandbits/]: Unable to find TileEntity while interacting with block.
+java.lang.Exception: null
+	at mod.chiselsandbits.core.Log.noTileError(Log.java:39) ~[chiselsandbits:?]
+	at mod.chiselsandbits.chiseledblock.BlockChiseled.func_196253_a(BlockChiseled.java:118) ~[chiselsandbits:?]
+	at net.minecraft.block.AbstractBlock$AbstractBlockState.func_196953_a(AbstractBlock.java:665) ~[?:?]
+	at net.minecraft.item.BlockItemUseContext.func_196011_b(SourceFile:60) ~[?:?]
+	at net.minecraft.item.BlockItem.func_195942_a(BlockItem.java:44) ~[?:?]
+	at net.minecraft.item.BlockItem.func_195939_a(BlockItem.java:39) ~[?:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:644) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:187) ~[?:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:353) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:36) ~[?:?]
+	at net.optifine.util.PacketRunnable.run(PacketRunnable.java:28) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(ThreadTaskExecutor.java:189) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(ThreadTaskExecutor.java:151) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(ThreadTaskExecutor.java:167) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[14Sep2021 21:14:19.383] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 989 advancements
+[14Sep2021 21:15:37.737] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 991 advancements
+[14Sep2021 21:17:16.436] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: moment_bratanka lost connection: Disconnected
+[14Sep2021 21:17:16.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moment_bratanka left the game
+[14Sep2021 21:17:16.445] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] moment_bratanka left the game
+[14Sep2021 21:17:25.228] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 993 advancements
+[14Sep2021 21:17:31.580] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 994 advancements
+[14Sep2021 21:21:05.977] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 994 advancements
+[14Sep2021 21:22:41.131] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 994 advancements
+[14Sep2021 21:23:30.014] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player moment_bratanka is a08d4518-8e32-43b5-8da4-18f022d4994d
+[14Sep2021 21:23:36.088] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@20d29557
+[14Sep2021 21:23:36.097] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: moment_bratanka[/25.22.8.130:57956] logged in with entity id 83998 at (-224.30000001192093, 65.92813896836532, -173.85183843750943)
+[14Sep2021 21:23:36.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moment_bratanka joined the game
+[14Sep2021 21:23:36.103] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] moment_bratanka joined the game
+[14Sep2021 21:23:36.111] [Server thread/INFO] [Waila/]: Syncing config to moment_bratanka (a08d4518-8e32-43b5-8da4-18f022d4994d)
+[14Sep2021 21:23:49.880] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Saved screenshot as 2021-09-14_21.23.49.png
+[14Sep2021 21:23:51.026] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Saved screenshot as 2021-09-14_21.23.50.png
+[14Sep2021 21:23:54.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Toucan_XXIX: Teleported Toucan_XXIX to moment_bratanka]
+[14Sep2021 21:23:54.795] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Teleported Toucan_XXIX to moment_bratanka
+[14Sep2021 21:25:33.291] [Render thread/ERROR] [Chisel/]: java.lang.NullPointerException: Cannot invoke "mezz.jei.api.recipe.IRecipeManager.getRecipes(mezz.jei.api.recipe.category.IRecipeCategory, mezz.jei.api.recipe.IFocus)" because "this.registry" is null
+[14Sep2021 21:25:34.026] [Render thread/ERROR] [Chisel/]: java.lang.NullPointerException: Cannot invoke "mezz.jei.api.recipe.IRecipeManager.getRecipes(mezz.jei.api.recipe.category.IRecipeCategory, mezz.jei.api.recipe.IFocus)" because "this.registry" is null
+[14Sep2021 21:25:45.834] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: moment_bratanka lost connection: Disconnected
+[14Sep2021 21:25:45.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moment_bratanka left the game
+[14Sep2021 21:25:45.836] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] moment_bratanka left the game
+[14Sep2021 21:25:49.488] [Render thread/ERROR] [Chisel/]: java.lang.NullPointerException: Cannot invoke "mezz.jei.api.recipe.IRecipeManager.getRecipes(mezz.jei.api.recipe.category.IRecipeCategory, mezz.jei.api.recipe.IFocus)" because "this.registry" is null
+[14Sep2021 21:25:55.807] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Starting action 'stop'
+[14Sep2021 21:25:55.829] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Toucan_XXIX lost connection: Disconnected
+[14Sep2021 21:25:55.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Toucan_XXIX left the game
+[14Sep2021 21:25:55.846] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
+[14Sep2021 21:25:55.871] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Overall Action 'stop' took 64msecs
+[14Sep2021 21:25:55.871] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Clearing reload state (playerJoined: true, reloadFired: true, customTagsEventFired: true, vanillaTagsEventFired: true)
+[14Sep2021 21:25:55.877] [Render thread/INFO] [Astral Sorcery/]: Client cache cleared!
+[14Sep2021 21:25:55.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Sep2021 21:25:55.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Sep2021 21:25:55.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Sep2021 21:25:55.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[surival]'/minecraft:overworld
+[14Sep2021 21:25:56.374] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (surival): All chunks are saved
+[14Sep2021 21:25:56.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[surival]'/minecraft:the_nether
+[14Sep2021 21:25:56.375] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Sep2021 21:25:56.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[surival]'/minecraft:the_end
+[14Sep2021 21:25:56.377] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Sep2021 21:25:56.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[surival]'/twilightforest:twilightforest
+[14Sep2021 21:25:56.381] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[14Sep2021 21:25:56.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[surival]'/twilightforest:skylight_forest
+[14Sep2021 21:25:56.382] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[14Sep2021 21:25:56.446] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (surival): All chunks are saved
+[14Sep2021 21:25:56.544] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Sep2021 21:25:56.545] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Sep2021 21:25:56.546] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[14Sep2021 21:25:56.559] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[14Sep2021 21:26:02.806] [SoundControl Sound Processor/WARN] [SoundControl/SoundFXProcessor]: SoundControl Sound Processor is lagging; behind 4 msecs
+[14Sep2021 21:26:42.758] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[14Sep2021 21:26:42.797] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Starting action 'stop'
+[14Sep2021 21:26:42.837] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Overall Action 'stop' took 39msecs
+[14Sep2021 21:26:42.837] [Render thread/INFO] [DynamicSurroundings/ModuleServiceManager]: Clearing reload state (playerJoined: false, reloadFired: false, customTagsEventFired: false, vanillaTagsEventFired: false)
+[14Sep2021 21:26:42.837] [Render thread/INFO] [Astral Sorcery/]: Client cache cleared!

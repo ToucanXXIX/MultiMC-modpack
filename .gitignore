@@ -1,14 +1,5 @@
 .minecraft/saves
-.minecraft/.mixin.out/audit/mixin_implementation_report.txt
-.minecraft/.mixin.out/audit/mixin_implementation_report.txt
-.minecraft/.mixin.out/audit/mixin_implementation_report.txt
-.minecraft/.mixin.out/audit/mixin_implementation_report.txt
-.minecraft/.mixin.out/audit/mixin_implementation_report.txt
-.minecraft/.mixin.out/audit/mixin_implementation_report.txt
-.minecraft/config/abundance-common.toml
-.minecraft/config/allurement-common.toml
-.minecraft/config/dsurround/environs-client-1.toml.bak
-.minecraft/config/dsurround/environs-client-3.toml.bak
+.minecraft/.mixin.out/audit/
 natives/SAPIWrapper_x86.dll
 natives/SAPIWrapper_x64.dll
 natives/OpenAL32.dll.sha1
@@ -51,40 +42,11 @@ natives/glfw.dll.sha1
 natives/glfw.dll.git
 natives/glfw.dll
 instance.cfg
-instance.cfg
 .minecraft/usernamecache.json
 .minecraft/usercache.json
 .minecraft/screenshots/2021-09-13_23.06.50.png
-.minecraft/saves/New World/stats/efd1504c-730b-4d51-ba47-2db314df05d8.json
-.minecraft/screenshots/2021-09-12_23.00.52.png
-.minecraft/saves/New World/stats/efd1504c-730b-4d51-ba47-2db314df05d8.json
-.minecraft/saves/New World/session.lock
-.minecraft/saves/New World/region/r.1.0.mca
-.minecraft/saves/New World/region/r.1.-1.mca
-.minecraft/saves/New World/region/r.0.1.mca
-.minecraft/saves/New World/region/r.0.0.mca
-.minecraft/saves/New World/region/r.0.-1.mca
-.minecraft/saves/New World/region/r.-1.1.mca
-.minecraft/saves/New World/region/r.-1.0.mca
-.minecraft/saves/New World/region/r.-1.-1.mca
-.minecraft/saves/New World/poi/r.1.0.mca
-.minecraft/saves/New World/poi/r.0.0.mca
-.minecraft/saves/New World/poi/r.0.-1.mca
+.minecraft/saves/
+.minecraft/screenshots
 .minecraft/optionsof.txt
 .minecraft/options.txt
-.minecraft/logs/latest.log
-.minecraft/logs/debug.log
-.minecraft/logs/debug-5.log.gz
-.minecraft/logs/debug-4.log.gz
-.minecraft/logs/debug-3.log.gz
-.minecraft/logs/debug-2.log.gz
-.minecraft/logs/debug-1.log.gz
-.minecraft/logs/2021-09-13-3.log.gz
-.minecraft/logs/2021-09-13-2.log.gz
-.minecraft/logs/2021-09-12-2.log.gz
-.minecraft/logs/2021-09-11-9.log.gz
-.minecraft/logs/2021-09-12-3.log.gz
-.minecraft/logs/2021-09-11-8.log.gz
-.minecraft/logs/2021-09-11-7.log.gz
-.minecraft/logs/2021-09-11-10.log.gz
-.minecraft/config/waila/waila_plugins.json
+.minecraft/logs/
