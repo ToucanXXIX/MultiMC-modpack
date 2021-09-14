@@ -4,7 +4,7 @@
 
 	#Values for biome frequencies; lower = more rare. (Requires restart)
 	[common.biome_weights]
+		"Nemophila Fields weight" = 0
 		"Lavender Fields weight" = 3
 		"Lavender Forest weight" = 2
-		"Nemophila Fields weight" = 0
 
