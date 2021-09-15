@@ -1,5 +1,6 @@
 .minecraft/saves
 .minecraft/.mixin.out/audit/
+.minecraft/logs
 natives/SAPIWrapper_x86.dll
 natives/SAPIWrapper_x64.dll
 natives/OpenAL32.dll.sha1
@@ -50,3 +51,6 @@ instance.cfg
 .minecraft/optionsof.txt
 .minecraft/options.txt
 .minecraft/logs/
+.minecraft/options.txt
+.minecraft/usercache.json
+instance.cfg
